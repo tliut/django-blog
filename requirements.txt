@@ -1,7 +1,6 @@
 asgiref==3.4.1
 attrs==21.2.0
 coverage==5.5
-decouple==0.0.7
 Django==3.2.7
 django-crispy-forms==1.12.0
 iniconfig==1.1.1
